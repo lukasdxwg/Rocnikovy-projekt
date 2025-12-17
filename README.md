@@ -27,7 +27,7 @@ Součástí cíle je také:
 * Síťový router **TP‑Link Archer C6**
 * Napájecí adaptér routeru
 * Ethernetový kabel (UTP)
-* Stolní počítač / notebook
+* Stolní počítač 
 * Mobilní telefon
 
 ### Základní popis routeru
