@@ -50,7 +50,7 @@ Pro konfiguraci routeru jsem použil webové administrační rozhraní. Do admin
 
 ## 4. Softwarové prostředky
 
-Pro nastavení routeru jsem využil webové administrační rozhraní (Web GUI), které funguje jako webová aplikace. Toto rozhraní mi umožnilo nastavovat síťové parametry, spravovat bezdrátové sítě, konfigurovat zabezpečení a sledovat stav připojení. K přístupu jsem použil běžný webový prohlížeč.
+Nastavil jsem parametry lokální i bezdrátové sítě tak, aby router automaticky přiděloval IP adresy, síť byla zabezpečená a všechna zařízení měla stabilní připojení k internetu.
 
 ---
 
