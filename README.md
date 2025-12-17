@@ -103,11 +103,11 @@ Pro výběr vhodného Wi-Fi kanálu jsem použil aplikaci **WiFi Analyzer**, pom
 
 ## 9. Hodnocení projektu a sebereflexe
 
-Projekt hodnotím jako přínosný, protože mi umožnil prakticky si vyzkoušet práci se síťovým zařízením, se kterým se běžně setkáváme v domácím i školním prostředí. Během realizace jsem si upevnil znalosti z oblasti počítačových sítí, zejména v tématech jako je rozdíl mezi pásmy 2.4 GHz a 5 GHz, význam šifrování Wi‑Fi, volba vhodného kanálu a základní princip fungování routeru.
+Projekt hodnotím jako přínosný, protože mi umožnil prakticky si vyzkoušet práci se síťovým zařízením, se kterým se běžně setkáváme doma i ve škole. Během práce jsem si upevnil znalosti z oblasti počítačových sítí, zejména rozdíly mezi pásmy 2.4 GHz a 5 GHz, význam zabezpečení Wi-Fi a volbu vhodného kanálu.
 
-Za největší přínos považuji to, že jsem se naučil systematicky řešit problémy. Při konfiguraci jsem narazil na potíže s připojením počítače k 5 GHz síti, které jsem musel analyzovat a odstranit úpravou nastavení zabezpečení a kanálu. Díky tomu jsem pochopil, že ne všechna zařízení podporují stejné standardy a že je nutné brát v úvahu kompatibilitu hardwaru.
+Největším přínosem pro mě bylo řešení problémů. Při nastavování jsem měl potíže s připojením počítače k 5 GHz síti, které jsem vyřešil úpravou nastavení zabezpečení a kanálu. Díky tomu jsem pochopil, že je nutné brát v úvahu kompatibilitu různých zařízení.
 
-Při práci jsem využil odborné internetové zdroje a konzultoval jsem postupy a význam jednotlivých nastavení také pomocí nástroje **ChatGPT**, který mi sloužil jako studijní a konzultační pomůcka. Veškeré zapojení, konfigurace a testování routeru jsem však provedl samostatně.
+Při práci jsem využil odborné internetové zdroje a konzultoval postup také pomocí nástroje ChatGPT jako studijní pomůcky. Samotné zapojení, konfiguraci a testování routeru jsem provedl samostatně.
 
 Pokud bych projekt realizoval znovu, rozšířil bych jej například o:
 
