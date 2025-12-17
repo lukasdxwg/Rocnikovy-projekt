@@ -88,7 +88,9 @@ Tím je zabráněno neoprávněnému přístupu do sítě.
 
 ## 7. Testování funkčnosti
 
-Po dokončení konfigurace jsem síť otestoval. Připojil jsem stolní počítač k 5 GHz síti a ověřil stabilitu a rychlost připojení. Dále jsem připojil mobilní telefon k 2.4 GHz i 5 GHz síti. Funkčnost internetu jsem ověřil otevřením webových stránek a pomocí příkazu ping. Všechna zařízení se úspěšně připojila a připojení bylo stabilní.
+Po dokončení konfigurace jsem síť otestoval. Připojil jsem stolní počítač k 5 GHz síti a ověřil stabilitu připojení. Rychlost internetu jsem měřil pomocí nástroje **Speedtest by Ookla**, kde jsem ověřil rychlost stahování, odesílání a odezvu (ping).
+
+Pro výběr vhodného Wi-Fi kanálu jsem použil aplikaci **WiFi Analyzer**, pomocí které jsem zjistil obsazenost jednotlivých kanálů v okolí a zvolil méně rušený kanál. Tím se podařilo zlepšit stabilitu a kvalitu bezdrátového připojení.
 
 ---
 
@@ -120,4 +122,3 @@ Projekt mi pomohl lépe pochopit teorii probíranou ve výuce a ukázal mi její
 ## Závěr
 
 V tomto projektu jsem samostatně zapojil a nakonfiguroval domácí síťový router. Naučil jsem se pracovat s administračním rozhraním, nastavit bezdrátové sítě a ověřit jejich funkčnost. Projekt splnil stanovené cíle a pomohl mi lépe pochopit základy počítačových sítí.
-
