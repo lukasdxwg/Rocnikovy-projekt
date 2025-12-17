@@ -119,6 +119,9 @@ Projekt mi pomohl lépe pochopit teorii probíranou ve výuce a ukázal mi její
 
 ---
 
+## Citace
+*BEHFOR. Choose the Right Channel for your WiFi !. Online. Youtube. 2023. Dostupné z: https://www.youtube.com/watch?v=S_RO92ttpMo. [cit. 2025-12-17].
+
 ## Závěr
 
 V tomto projektu jsem samostatně zapojil a nakonfiguroval domácí síťový router. Naučil jsem se pracovat s administračním rozhraním, nastavit bezdrátové sítě a ověřit jejich funkčnost. Projekt splnil stanovené cíle a pomohl mi lépe pochopit základy počítačových sítí.
