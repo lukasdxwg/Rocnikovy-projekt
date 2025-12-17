@@ -1,9 +1,8 @@
-
 # Projekt: Samostatné zapojení a konfigurace síťového routeru
 
 ## Cíl
 
-Cílem projektu je prokázat schopnost samostatně zapojit, nakonfigurovat a otestovat domácí síťový router. Student se seznámí se základními hardwarovými a softwarovými prostředky používanými v oblasti počítačových sítí, pochopí princip fungování bezdrátových sítí (Wi‑Fi) a dokáže vysvětlit význam jednotlivých konfiguračních parametrů routeru.
+Cílem tohoto projektu je prokázat, že jsem schopen samostatně zapojit, nakonfigurovat a otestovat domácí síťový router. V rámci projektu jsem se seznámil se základními hardwarovými a softwarovými prostředky používanými v oblasti počítačových sítí, pochopil jsem princip fungování bezdrátových sítí (Wi-Fi) a význam jednotlivých konfiguračních parametrů routeru.
 
 Součástí cíle je také:
 
@@ -15,11 +14,11 @@ Součástí cíle je také:
 
 ## Ověření cílů
 
-* Zapojení routeru do elektrické sítě a k poskytovateli internetu
-* Přihlášení do administračního rozhraní routeru
-* Základní konfigurace LAN a Wi‑Fi
-* Nastavení zabezpečení bezdrátové sítě
-* Ověření funkčnosti připojení na PC a mobilním telefonu
+* Zapojil jsem router do elektrické sítě a k poskytovateli internetu
+* Přihlásil jsem se do administračního rozhraní routeru
+* Nakonfiguroval jsem LAN a bezdrátové sítě
+* Nastavil jsem zabezpečení Wi‑Fi
+* Ověřil jsem funkčnost připojení na PC a mobilním telefonu
 
 ---
 
@@ -33,72 +32,49 @@ Součástí cíle je také:
 
 ### Základní popis routeru
 
-Router je síťové zařízení, které propojuje lokální síť (LAN) s externí sítí (WAN – internet). Zajišťuje směrování dat, přidělování IP adres (DHCP), zabezpečení sítě a bezdrátovou komunikaci pomocí Wi‑Fi.
+Router je zařízení, které propojuje lokální síť s internetem. Zajišťuje směrování dat, přidělování IP adres (DHCP), zabezpečení sítě a bezdrátovou komunikaci pomocí Wi‑Fi.
 
 ---
 
 ## 2. Zapojení routeru
 
-1. Router byl připojen k elektrické síti pomocí napájecího adaptéru.
-2. WAN port routeru byl propojen ethernetovým kabelem s modemem poskytovatele internetu.
-3. Počítač byl připojen k routeru pomocí LAN kabelu (pro první konfiguraci).
-4. Po zapnutí routeru byly zkontrolovány stavové LED diody.
+Router jsem připojil k elektrické síti pomocí napájecího adaptéru. WAN port routeru jsem propojil ethernetovým kabelem s modemem poskytovatele internetu. Pro první konfiguraci jsem počítač připojil k routeru pomocí LAN kabelu, aby byla zajištěna stabilní komunikace během nastavování. Po zapnutí routeru jsem zkontroloval stavové LED diody, které signalizují správnou funkčnost zařízení.
 
 ---
 
 ## 3. Přihlášení do administrace routeru
 
-Pro konfiguraci routeru bylo použito webové administrační rozhraní:
-
-* Adresa: **[http://192.168.0.1](http://192.168.0.1)**
-* Přihlášení pomocí lokálního hesla (Local Password)
-
-Při resetu routeru do továrního nastavení je uživatel vyzván k vytvoření nového administračního hesla.
+Pro konfiguraci routeru jsem použil webové administrační rozhraní. Do administrace jsem se přihlásil přes webový prohlížeč na adrese **[http://192.168.0.1](http://192.168.0.1)** pomocí lokálního administračního hesla. Při resetu routeru do továrního nastavení jsem byl vyzván k vytvoření nového administračního hesla.
 
 ---
 
 ## 4. Softwarové prostředky
 
-### Administrační rozhraní (Web GUI)
-
-Administrace routeru funguje jako webová aplikace, která umožňuje:
-
-* nastavovat síťové parametry,
-* spravovat Wi‑Fi sítě,
-* konfigurovat zabezpečení,
-* sledovat stav připojení.
-
-K přístupu je použit běžný webový prohlížeč (Chrome, Edge apod.).
+Pro nastavení routeru jsem využil webové administrační rozhraní (Web GUI), které funguje jako webová aplikace. Toto rozhraní mi umožnilo nastavovat síťové parametry, spravovat bezdrátové sítě, konfigurovat zabezpečení a sledovat stav připojení. K přístupu jsem použil běžný webový prohlížeč.
 
 ---
 
 ## 5. Konfigurace bezdrátové sítě (Wi‑Fi)
 
-### 5.1 Nastavení 2.4 GHz sítě
+### Nastavení 2.4 GHz
 
-* SSID: MojeWiFi‑24G
 * Režim: 802.11 b/g/n mixed
-* Kanál: **13**
+* Kanál: 13
 * Šířka kanálu: 20 MHz
-* Zabezpečení: WPA2‑PSK
-* Šifrování: AES (CCMP)
+* Zabezpečení: WPA2‑PSK (AES)
 
-Pásmo 2.4 GHz nabízí delší dosah a lepší průchod zdmi, ale nižší rychlosti.
+Pásmo 2.4 GHz jsem zvolil kvůli lepšímu dosahu a stabilitě.
 
-### 5.2 Nastavení 5 GHz sítě
+### Nastavení 5 GHz
 
-* SSID: MojeWiFi‑5G
 * Režim: 802.11 a/n/ac mixed
 * Kanál: 36
 * Šířka kanálu: 80 MHz
-* Zabezpečení: WPA2‑PSK
-* Šifrování: AES (CCMP)
+* Zabezpečení: WPA2‑PSK (AES)
 
-Pásmo 5 GHz poskytuje vyšší rychlosti a menší rušení, ale kratší dosah.
+Pásmo 5 GHz jsem nastavil kvůli vyšší rychlosti připojení na PC.
 
----
-
-## 6. Zabezpečení sítě
+## 6.  Zabezpečení sítě
 
 Pro zabezpečení bezdrátové sítě bylo použito:
 
@@ -112,32 +88,20 @@ Tím je zabráněno neoprávněnému přístupu do sítě.
 
 ## 7. Testování funkčnosti
 
-Po dokončení konfigurace byla síť otestována:
-
-* Připojení PC k 5 GHz síti – ověření stability a rychlosti
-* Připojení mobilního telefonu k 2.4 GHz i 5 GHz síti
-* Ověření přístupu k internetu (webové stránky, ping)
-
-Všechna zařízení se úspěšně připojila a připojení bylo stabilní.
+Po dokončení konfigurace jsem síť otestoval. Připojil jsem stolní počítač k 5 GHz síti a ověřil stabilitu a rychlost připojení. Dále jsem připojil mobilní telefon k 2.4 GHz i 5 GHz síti. Funkčnost internetu jsem ověřil otevřením webových stránek a pomocí příkazu ping. Všechna zařízení se úspěšně připojila a připojení bylo stabilní.
 
 ---
 
 ## 8. Možné chyby a jejich řešení
 
-### Konfigurační chyby
-
-* Nesprávný kanál Wi‑Fi → změna na pevně nastavený kanál
-* Nepodporované šifrování (WPA3) → přechod na WPA2
-
-### Uživatelské chyby
-
-* Zapomenuté administrační heslo → reset routeru do továrního nastavení
+* Problémy s připojením k Wi‑Fi jsem řešil změnou kanálu a typu zabezpečení.
+* V případě zapomenutého hesla je nutné provést reset routeru do továrního nastavení.
 
 ---
 
 ## 9. Hodnocení projektu a sebereflexe
 
-Projekt hodnotím jako přínosný, protože mi umožnil prakticky si vyzkoušet práci se síťovým zařízením, se kterým se běžně setkáváme v domácím i školním prostředí. Během realizace jsem si upevnil znalosti z oblasti počítačových sítí, zejména v tématech jako je rozdíl mezi pásmy 2.4 GHz a 5 GHz, význam šifrování Wi-Fi, volba vhodného kanálu a základní princip fungování routeru.
+Projekt hodnotím jako přínosný, protože mi umožnil prakticky si vyzkoušet práci se síťovým zařízením, se kterým se běžně setkáváme v domácím i školním prostředí. Během realizace jsem si upevnil znalosti z oblasti počítačových sítí, zejména v tématech jako je rozdíl mezi pásmy 2.4 GHz a 5 GHz, význam šifrování Wi‑Fi, volba vhodného kanálu a základní princip fungování routeru.
 
 Za největší přínos považuji to, že jsem se naučil systematicky řešit problémy. Při konfiguraci jsem narazil na potíže s připojením počítače k 5 GHz síti, které jsem musel analyzovat a odstranit úpravou nastavení zabezpečení a kanálu. Díky tomu jsem pochopil, že ne všechna zařízení podporují stejné standardy a že je nutné brát v úvahu kompatibilitu hardwaru.
 
@@ -155,6 +119,5 @@ Projekt mi pomohl lépe pochopit teorii probíranou ve výuce a ukázal mi její
 
 ## Závěr
 
-V rámci projektu se mi podařilo úspěšně zapojit a nakonfigurovat domácí síťový router. Práce mi umožnila propojit teoretické znalosti s praktickou činností a ověřit si funkčnost sítě na reálných zařízeních.
+V tomto projektu jsem samostatně zapojil a nakonfiguroval domácí síťový router. Naučil jsem se pracovat s administračním rozhraním, nastavit bezdrátové sítě a ověřit jejich funkčnost. Projekt splnil stanovené cíle a pomohl mi lépe pochopit základy počítačových sítí.
 
-Projekt splnil stanovené cíle a považuji jej za užitečnou zkušenost pro další studium oboru Informační technologie i pro budoucí praxi.
