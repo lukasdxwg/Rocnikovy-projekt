@@ -119,7 +119,7 @@ Projekt mi pomohl lépe pochopit teorii probíranou ve výuce a ukázal mi její
 
 ---
 
-## Citace
+## 10. Citace
 *BEHFOR. Choose the Right Channel for your WiFi !. Online. Youtube. 2023. Dostupné z: https://www.youtube.com/watch?v=S_RO92ttpMo. [cit. 2025-12-17].
 
 ## Závěr
