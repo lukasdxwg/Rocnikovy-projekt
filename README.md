@@ -96,7 +96,7 @@ Pro výběr vhodného Wi-Fi kanálu jsem použil aplikaci **WiFi Analyzer**, pom
 
 ## 8. Možné chyby a jejich řešení
 
-* Problémy s připojením k Wi‑Fi jsem řešil změnou kanálu a typu zabezpečení.
+* Problémy s připojením k Wi‑Fi jsem řešil změnou kanálu.
 * V případě zapomenutého hesla je nutné provést reset routeru do továrního nastavení.
 
 ---
