@@ -119,21 +119,20 @@ Projekt mi pomohl lépe pochopit teorii probíranou ve výuce a ukázal mi její
 
 ---
 
-10. Citace
 
-[1] BEHFOR. Choose the Right Channel for your WiFi!. Online. YouTube, 2023.
-Dostupné z: https://www.youtube.com/watch?v=S_RO92ttpMo
-
+## 10. Citace
+**[1]** BEHFOR. *Choose the Right Channel for your WiFi!*. Online. YouTube, 2023.  
+Dostupné z: https://www.youtube.com/watch?v=S_RO92ttpMo  
 [cit. 2025-12-17].
 
-[2] Jak nastavit router TP-LINK – TP-Link nastavení routeru – návod TP-Link. Online. YouTube, 2024.
-Dostupné z: https://www.youtube.com/watch?v=8hMrZ6RmAjc
-
+**[2]** *Jak nastavit router TP-LINK – TP-Link nastavení routeru – návod TP-Link*. Online. YouTube, 2024.  
+Dostupné z: https://www.youtube.com/watch?v=8hMrZ6RmAjc  
 [cit. 2025-12-18].
 
-[3] OpenAI. ChatGPT – konzultační dotaz k nastavení routeru. Online, 2025.
-Použitý prompt:
-„Mám domácí router TP-Link Archer C6 a potřebuji poradit s jeho nastavením. Vysvětli mi rozdíl mezi Wi-Fi 2.4 GHz a 5 GHz, jak nastavit channel mode, channel width a jak vybrat vhodný kanál.“
+**[3]** OpenAI. *ChatGPT – konzultační dotaz k nastavení routeru*. Online, 2025.  
+Použitý prompt:  
+> „Mám domácí router TP-Link Archer C6 a potřebuji poradit s jeho nastavením.  
+> Vysvětli mi rozdíl mezi Wi-Fi 2.4 GHz a 5 GHz, jak nastavit channel mode, channel width a jak vybrat vhodný kanál.“  
 [cit. 2025-12-18].
 
 ## Závěr
