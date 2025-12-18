@@ -121,6 +121,7 @@ Projekt mi pomohl lépe pochopit teorii probíranou ve výuce a ukázal mi její
 
 ## 10. Citace
 *BEHFOR. Choose the Right Channel for your WiFi !. Online. Youtube. 2023. Dostupné z: https://www.youtube.com/watch?v=S_RO92ttpMo. [cit. 2025-12-17].
+Jak nastavit router TP-LINK - tp link nastavení routeru - návod TP-Link. Online. In: . 2024. Dostupné z: https://www.youtube.com/watch?v=8hMrZ6RmAjc. [cit. 2025-12-18].
 
 ## Závěr
 
