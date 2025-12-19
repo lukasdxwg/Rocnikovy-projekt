@@ -68,7 +68,7 @@ Pásmo 2.4 GHz jsem zvolil kvůli lepšímu dosahu a stabilitě.
 ### Nastavení 5 GHz
 
 * Režim: 802.11 a/n/ac mixed
-* Kanál: 36
+* Kanál: 48
 * Šířka kanálu: 80 MHz
 * Zabezpečení: WPA2‑PSK (AES)
 
