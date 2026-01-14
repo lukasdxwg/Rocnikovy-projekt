@@ -125,7 +125,7 @@ Během konfigurace jsem narazil na problém s připojením počítače k 5 GHz s
 Mobilní telefon fungoval bez problémů, ale počítač se nepřipojoval. Problém
 jsem vyřešil změnou nastavení zabezpečení a pevného kanálu. Díky tomu jsem
 pochopil, že je nutné brát v úvahu kompatibilitu různých zařízení.
-
+ 
 ---
 
 ## 10. Hodnocení projektu a sebereflexe
