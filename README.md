@@ -114,7 +114,7 @@ rušením bezdrátového signálu.
 ## 8. Analýza obsazení Wi-Fi kanálů (panelový dům)
 Protože se router nachází v panelovém domě, provedl jsem analýzu obsazenosti
 Wi-Fi kanálů pomocí aplikace WiFi Analyzer. Na základě výsledků jsem zvolil
-méně rušený kanál, čímž se zlepšila stabilita připojení.(Naše wi-fi je s tím modrým znakem)
+méně rušený kanál, čímž se zlepšila stabilita připojení.( Naše Wi-Fi je s tím modrým znakem)
 
 ![Obsazenost Wi-Fi kanálů v panelovém domě](images/wifi-analyzer-panelak.png)
 
